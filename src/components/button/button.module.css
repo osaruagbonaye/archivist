@@ -1,0 +1,9 @@
+.button{
+    padding: 2px 5px 2px 5px;
+    border-radius: 8px;
+    background-color: #ff6c98;
+    width: min-content;
+    color: #fff;
+    float: right;
+    font-size: small;
+}
