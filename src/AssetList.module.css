@@ -19,3 +19,6 @@
     width: -webkit-fill-available;
     max-width: 80px;
   }
+  .asset-list{
+    margin-top: 30px;
+  }
