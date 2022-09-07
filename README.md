@@ -1,4 +1,4 @@
-The following has been shown
+Archivist WebApp showing
 
 - CSS Modules
 - React Redux
